@@ -4,7 +4,7 @@ Arona Nur Tetulis
 
 ## Deploy Pages
 
-website: https://deploy-moviebytes.vercel.app/
+website: https://ajaib-technical-test.vercel.app/biodata
 
 ## 3rd Api's
 
