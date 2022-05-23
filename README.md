@@ -1,3 +1,11 @@
+## Project Title
+
+   Biodata Master
+
+## Project Description 
+
+   The Biodata Master project is list of the employee biodata of PT Dummy Company.
+
 ## Author
 
 Arona Nur Tetulis
